@@ -1,0 +1,9 @@
+H:\Workspace\Visual Studio 2013\Projects\CityInformationApp1\CityInformationApp1\bin\Debug\CityInformationApp1.exe.config
+H:\Workspace\Visual Studio 2013\Projects\CityInformationApp1\CityInformationApp1\bin\Debug\CityInformationApp1.exe
+H:\Workspace\Visual Studio 2013\Projects\CityInformationApp1\CityInformationApp1\bin\Debug\CityInformationApp1.pdb
+H:\Workspace\Visual Studio 2013\Projects\CityInformationApp1\CityInformationApp1\obj\Debug\CityInformationApp1.CityInformationUI.resources
+H:\Workspace\Visual Studio 2013\Projects\CityInformationApp1\CityInformationApp1\obj\Debug\CityInformationApp1.Properties.Resources.resources
+H:\Workspace\Visual Studio 2013\Projects\CityInformationApp1\CityInformationApp1\obj\Debug\CityInformationApp1.csproj.GenerateResource.Cache
+H:\Workspace\Visual Studio 2013\Projects\CityInformationApp1\CityInformationApp1\obj\Debug\CityInformationApp1.exe
+H:\Workspace\Visual Studio 2013\Projects\CityInformationApp1\CityInformationApp1\obj\Debug\CityInformationApp1.pdb
+H:\Workspace\Visual Studio 2013\Projects\CityInformationApp1\CityInformationApp1\obj\Debug\CityInformationApp1.csprojResolveAssemblyReference.cache
